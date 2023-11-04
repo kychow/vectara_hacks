@@ -1,0 +1,11 @@
+corpus_id: 2
+customer_id: 2767987948
+
+search_title: "Ask Python 3 Docs"
+
+enable_source_filters: False
+source: ""
+
+summary_default_language: "eng"
+summary_num_sentences: 3
+summary_num_results: 7
