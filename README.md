@@ -1,5 +1,7 @@
-<h1 align="center" To test out visit https://py3-answer.onrender.com/ </h1>
+# To test this demo, visit [https://py3-answer.onrender.com/](https://py3-answer.onrender.com/)
+Trying out vectara, a hosting platform for genAI apps powered by RAG (retrieval augmented generation) 
 
+---
 <h1 align="center">Welcome to vectara-answer</h1>
 <p align="center">
   <img style="max-width: 100%;" alt="logo" src="img/project-logo.png"/>
